@@ -19,13 +19,13 @@ After starting the flask application
 Project folder structure:
 All the API/JSON are placed under the JSON_api folder
 JSON_api:
-    -additem.json
-    -addVendor.json
-    -getOrders.json
-    -login.json
-    -placeOrder.json
-    -searchitem.json
-    -signUp.json
+1.additem.json
+2.ddVendor.json
+3.getOrders.json
+4.login.json
+5.placeOrder.json
+6.searchitem.json
+7.signUp.json
 
 files:
 app.py -> contains the code to run the flask app
